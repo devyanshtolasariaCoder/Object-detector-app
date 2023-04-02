@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#head{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+canvas{
+    background-color: grey;
+}

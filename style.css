@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+a{
+   background-color: white;
+    color: red;
+    font-weight: bolder;
+    font-size: 25px;
+}
